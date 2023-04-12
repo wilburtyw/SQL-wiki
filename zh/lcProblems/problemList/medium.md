@@ -8,4 +8,4 @@ Note that the problems are sorted by frequency, with the most frequently asked p
 
 | Number    | Problem | Description | LC Link | Wiki Link |
 | -------- | -------- | -------- | -------- | -------- |
-| 595 | [Big Countries](../problems/bigCountries.md) | Selecting all countries that meet the "Big Contries" condition | [Description](https://leetcode.com/problems/big-countries/) | [Solution](../problems/bigCountries.md) |
+| 176 | [Second Highest Salary](../problems) | Selecting all countries that meet the "Big Contries" condition | [Description](https://leetcode.com/problems/big-countries/) | [Solution](../problems/bigCountries.md) |
